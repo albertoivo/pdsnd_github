@@ -10,7 +10,6 @@ This project analyzes Chicago bikeshare data to explore patterns in bike-sharing
 ### Files used
 - `bikeshare.py` - Main Python script containing the data analysis code
 - `chicago.csv` - Chicago bikeshare dataset (extracted from zip file)
-- `chicago.csv.zip` - Compressed bikeshare data file
 - `README.md` - Project documentation
 
 ### Credits
