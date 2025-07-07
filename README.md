@@ -1,17 +1,18 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+July 7, 2025
 
 ### Project Title
-Replace the Project Title
+Chicago Bikeshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project analyzes Chicago bikeshare data to explore patterns in bike-sharing usage. The analysis includes extracting and processing data from CSV files, examining user demographics (gender distribution), and implementing functions to analyze bikeshare trip data. The project demonstrates data manipulation techniques using Python's built-in libraries like CSV and includes data visualization capabilities with matplotlib.
 
 ### Files used
-Include the files used
+- `bikeshare.py` - Main Python script containing the data analysis code
+- `chicago.csv` - Chicago bikeshare dataset (extracted from zip file)
+- `chicago.csv.zip` - Compressed bikeshare data file
+- `README.md` - Project documentation
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was developed as part of the Udacity Data Science Nanodegree program. The Chicago bikeshare dataset is provided by Divvy (Chicago's bike-sharing system).
 
